@@ -1,0 +1,45 @@
+/* color palette: https://coolors.co/27578f-deebfa-704157-fa66ab-f7f2f5 */
+
+body {
+  background-color: #DEEBFA;
+  font-family: arial;
+  color: #1A0F14;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200%;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+p {
+  text-align: left;
+}
+
+a:link {
+  color: #27578F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #704157;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FA66AB;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FDC4DE;
+  background-color: transparent;
+  text-decoration: underline;
+}
